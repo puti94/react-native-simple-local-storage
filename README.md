@@ -1,4 +1,4 @@
-# react-native-sync-local-storage
+# react-native-simple-local-storage
 
 @react-native-community/async-storage 组件的同步写法
 
@@ -8,13 +8,13 @@
 ### Install
 
 ```
-$ yarn add react-native-sync-local-storage
+$ yarn add react-native-simple-local-storage
 ```
 
 ### Simple use
 ```jsx
  //在入口文件中;
- import 'react-native-sync-local-storage';
+ import 'react-native-simple-local-storage';
  function App(){
    const [isReady, setReady] = useState(false);
    useEffect(() => {

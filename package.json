@@ -1,5 +1,5 @@
 {
-  "name": "react-native-sync-local-storage",
+  "name": "react-native-simple-local-storage",
   "version": "0.1.0",
   "description": "",
   "main": "dist/index.js",
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/puti94/react-native-sync-local-storage.git"
+    "url": "git+https://github.com/puti94/react-native-simple-local-storage.git"
   },
   "bugs": {
-    "url": "https://github.com/puti94/react-native-sync-local-storage/issues"
+    "url": "https://github.com/puti94/react-native-sync-simple-storage/issues"
   },
-  "homepage": "https://github.com/puti94/react-native-sync-local-storage#readme",
+  "homepage": "https://github.com/puti94/react-native-simple-local-storage#readme",
   "keywords": [
     "react-native",
     "localStorage",
